@@ -1,0 +1,145 @@
+body{
+    background-image: url('background.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(221, 21, 21);
+}
+header {
+    display: flex;
+    background-color:black;
+    height: 110px;
+    background-attachment: fixed;
+}
+img{
+    height: 110px;
+    width: 100px;
+  }
+  nav ul  li{
+    display: inline-block;
+    padding: 20px;
+  }
+  nav ul li a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    margin-left: 30px;
+    padding-top: 10px;
+  }
+  #home img{
+  
+    height:700px;
+    width:1450px;
+    margin-bottom: 20px;
+  }
+  .grid{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #about{
+    text-align: center;
+    color: black;
+  }
+  .m img{
+    border-radius: 10%;
+    padding-left: 50px;
+    width: 300px;
+    height:250px;
+  }
+  .para{
+    margin-left: 100px;
+    background-color:black;
+    height:150px;
+    color: white;
+    font-size: large;
+  }
+  #models{
+    text-align: center;
+    background-color:black;
+    color: aquamarine;
+}
+.items img{
+  text-align: center;
+    padding-left:30px;
+    padding-bottom: 20px;
+    border-radius: 5%;
+    padding:30px;
+    width:300px;
+    height:300px;
+}
+#products{
+  text-align: center;
+  color:aquamarine;
+  background-color: black;
+
+}
+#move2 {
+  display:flex;
+  justify-content: space-around;
+  padding:50px;
+}
+.slide2 img{
+  width:200px;
+  height:200px;
+  
+  
+}
+#move {
+  display: flex;
+  
+}
+#vedio h2{
+  text-align: center;
+}
+#reviews{
+  text-align: center;
+  background-color: honeydew;
+  color: black;
+  height:100%;
+  width:100%;
+}
+.slide1 img{
+     padding-left: 20px;
+     height: 200px;
+     width:200px;
+     border-radius: 50%;
+     
+}
+#contact{
+  text-align: center;
+  color: aquamarine;
+}
+.row{
+  display:flex;
+  padding: 60px;
+}
+#contact form{
+  background-color:transparent;
+  margin-left: 400px;
+  padding: 100px;
+  border: 2px solid azure;
+}
+.inputbox{
+  padding:50px;
+  width:200px;
+  height:100px;
+  color: aquamarine;
+}
+footer{
+  text-align: center;
+  font-size:medium;
+  margin-top: 10px;
+  background-color: rgb(245, 241, 245);
+  
+}
+.par{
+  font-family: 'Times New Roman';
+}
+footer img{
+  margin-top: 5px;
+  padding-left: 10px;
+  height: 20px;
+  width: 20px;
+}
+
